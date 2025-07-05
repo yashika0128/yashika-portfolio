@@ -1,19 +1,14 @@
-# 🌐 Yashika's Portfolio
+# 💫 My Portfolio
 
 Welcome to my **personal portfolio website** – a digital space that reflects who I am as a budding developer, my skills, and the projects I’m proud of.
 
-<br/>
-
-![Portfolio Banner](https://via.placeholder.com/1000x300.png?text=Yashika+Chaubey+%7C+Web+Developer) <!-- You can customize this with your own banner if you want -->
-
----
 
 ## 🚀 Live Website  
 Check it out here:  
 👉 [https://myportfoliobyyc.netlify.app/](https://myportfoliobyyc.netlify.app/)  
 
 
----
+
 
 ## 🛠️ Built With
 
@@ -23,7 +18,7 @@ Check it out here:
 - **Visual Aesthetics & Modern Layouts**  
 - **💖 Passion & Creativity**
 
----
+
 
 ## 📸 Sneak Peek
 
@@ -54,13 +49,13 @@ Building this portfolio helped me:
 - Understand project hosting with **Netlify**
 - Polish my sense of design and aesthetics
 
----
+
 
 ## 🙋‍♀️ About Me
 
 Hi, I'm **Yashika Chaubey**, a passionate tech enthusiast and a B.Tech CSE student. I love creating meaningful user experiences through clean code and modern design.
 
----
+
 
 ## 🤝 Connect with Me
 
@@ -68,13 +63,13 @@ Hi, I'm **Yashika Chaubey**, a passionate tech enthusiast and a B.Tech CSE stude
   
 - ✉️ chaubeyyashika3@gmail.com 
 
----
+
 
 ## 📌 Note
 
 Feel free to fork or clone this repo to create your own portfolio – but remember to give credit where it’s due. 😊
 
----
+
 
 ## 🌟 Feedback
 
@@ -84,4 +79,5 @@ If you have any suggestions or ideas to improve this project, feel free to raise
 
 _Thanks for visiting! 🌈_
 
+🌟 _BY - Yashika Chaubey❤️_
 
