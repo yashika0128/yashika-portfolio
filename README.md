@@ -29,7 +29,7 @@ Check it out here:
 
 | 💻 Desktop View | 📱 Mobile View |
 |----------------|----------------|
-| ![desktop](https://via.placeholder.com/400x250.png?text=Desktop+View) | ![mobile](https://via.placeholder.com/200x400.png?text=Mobile+View) |
+| ![desktop](file:///C:/Users/chaub/OneDrive/Pictures/Screenshots/Screenshot%202025-07-05%20172043.png) | ![mobile](file:///C:/Users/chaub/Downloads/myportfoliobyyc.netlify.app).png) |
 
 ---
 
