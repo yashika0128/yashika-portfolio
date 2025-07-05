@@ -65,7 +65,7 @@ Hi, I'm **Yashika Chaubey**, a passionate tech enthusiast and a B.Tech CSE stude
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashika-chaubey-851952260/)
-)  
+  
 - ✉️ chaubeyyashika3@gmail.com 
 
 ---
