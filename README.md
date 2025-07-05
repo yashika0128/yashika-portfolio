@@ -34,12 +34,15 @@ Check it out here:
 ---
 
 ## 📂 Folder Structure
-portfolio/
-├── index.html
-├── style.css
-├── /assets
-│ └── /images
-└── README.md
+<pre>
+  
+  portfolio/ 
+  ├── index.html 
+  ├── style.css 
+  ├── /assets 
+  │ └── /images 
+  └── README.md 
+  </pre>
 
 ## 💡 What I Learned
 
