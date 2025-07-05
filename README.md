@@ -10,8 +10,8 @@ Welcome to my **personal portfolio website** – a digital space that reflects w
 
 ## 🚀 Live Website  
 Check it out here:  
-👉 [https://your-portfolio-name.netlify.app](https://your-portfolio-name.netlify.app)  
-_(Replace this with your actual Netlify link)_
+👉 [https://myportfoliobyyc.netlify.app/](https://myportfoliobyyc.netlify.app/)  
+
 
 ---
 
