@@ -29,7 +29,7 @@ Check it out here:
 
 | 💻 Desktop View | 📱 Mobile View |
 |----------------|----------------|
-| ![desktop](https://via.placeholder.com/400x250.png?text=Desktop+View) | ![mobile](https://via.placeholder.com/200x400.png?text=Mobile+View) |
+| ![desktop](https://github.com/yashika0128/yashika-portfolio/blob/main/assets/images/desktop.png?raw=true) | ![mobile](https://github.com/yashika0128/yashika-portfolio/blob/main/assets/images/phone.png?raw=true) |
 
 ## 📂 Folder Structure
 <pre>
