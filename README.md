@@ -1,6 +1,6 @@
 # 💫 My Portfolio
 
-Welcome to my **personal portfolio website** – a digital space that reflects who I am as a budding developer, my skills, and the projects I’m proud of.
+Welcome to my **portfolio website** – a digital space that reflects who I am as a budding developer, my skills, and the projects I’m proud of.
 
 
 ## 🚀 Live Website  
